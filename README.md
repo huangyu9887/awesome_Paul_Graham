@@ -11,7 +11,7 @@
 
 ## others：整理
 - https://baijiahao.baidu.com/s?id=1606125400741064457&wfr=spider&for=pc&isFailFlag=1
-
+- [硅谷创业之父 Paul Graham 56篇精彩博客集锦](https://36kr.com/p/5043113.html)
 
 
 # CHANGELOG
