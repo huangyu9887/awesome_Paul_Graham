@@ -28,6 +28,7 @@
 - [硅谷创业之父 Paul Graham 56篇精彩博客集锦](https://36kr.com/p/5043113.html)
 
 - [YC 联合创始人JessicaLivingston博客文集](http://foundersatwork.posthaven.com/)
+- [YC](https://www.ycombinator.com/)
 
 ## 参考文献
 
