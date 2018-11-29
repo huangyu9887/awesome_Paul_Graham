@@ -16,7 +16,7 @@
 
 ## others
 
-- https://baijiahao.baidu.com/s?id=1606125400741064457&wfr=spider&for=pc&isFailFlag=1
+- [YC 创始人 Paul Graham 的妻子：姻缘起于创业，在 YC 不只是“老板娘”](https://baijiahao.baidu.com/s?id=1606125400741064457&wfr=spider&for=pc&isFailFlag=1)
 - [硅谷创业之父 Paul Graham 56篇精彩博客集锦](https://36kr.com/p/5043113.html)
 
 
