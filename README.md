@@ -1,5 +1,8 @@
 # Paul_Graham
 
+https://en.wikipedia.org/wiki/Paul_Graham_(programmer)
+
+
 ## talks
 
 - [Paul Graham on why he doesn’t like seeing college-age and younger founders](https://techcrunch.com/2018/09/01/paul-graham-on-why-he-doesnt-like-seeing-college-age-and-younger-founders/)
