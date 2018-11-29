@@ -7,7 +7,8 @@
 
 - [Paul Graham on why he doesn’t like seeing college-age and younger founders](https://techcrunch.com/2018/09/01/paul-graham-on-why-he-doesnt-like-seeing-college-age-and-younger-founders/)
 - [A Conversation with Paul Graham – Moderated by Geoff Ralston](https://blog.ycombinator.com/a-conversation-with-paul-graham-moderated-by-geoff-ralston/)
-- [Keynote: Paul Graham, YCombinator 2012 CA](https://www.youtube.com/watch?v=R9ITLdmfdLI)
+- [Keynote: Paul Graham, YCombinator 2012 CA 需梯子](https://www.youtube.com/watch?v=R9ITLdmfdLI)
+- [炉边对话 Paul Graham](https://v.youku.com/v_show/id_XMTU4MjEwOTg0OA==.html?spm=a2h0k.11417342.soresults.dtitle)
 
 ## essay
 
@@ -17,8 +18,8 @@
 
 ## media
 
-- [Summer Student Talks 2010 - Paul Graham on Vimeo](https://vimeo.com/21139129)
-- [Paul Graham at Startup School 2008](https://www.youtube.com/watch?v=q7K0vRUKXKc)
+- [Summer Student Talks 2010 - Paul Graham on Vimeo](https://vimeo.com/21139129)：需梯子
+- [Paul Graham at Startup School 2008](https://www.youtube.com/watch?v=q7K0vRUKXKc)：需梯子
 
 ## others
 
