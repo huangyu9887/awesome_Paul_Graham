@@ -2,6 +2,8 @@
 
 ## talks
 
+- [Paul Graham on why he doesn’t like seeing college-age and younger founders](https://techcrunch.com/2018/09/01/paul-graham-on-why-he-doesnt-like-seeing-college-age-and-younger-founders/)
+
 ## essay
 
 - [博客文集](http://www.paulgraham.com/articles.html)
