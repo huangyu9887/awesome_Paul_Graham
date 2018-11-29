@@ -16,6 +16,8 @@
 
 ## media
 
+- [Summer Student Talks 2010 - Paul Graham on Vimeo](https://vimeo.com/21139129)
+
 ## others
 
 - [YC 创始人 Paul Graham 的妻子Jessica Livingston：姻缘起于创业，在 YC 不只是“老板娘”](https://baijiahao.baidu.com/s?id=1606125400741064457&wfr=spider&for=pc&isFailFlag=1)
