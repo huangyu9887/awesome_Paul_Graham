@@ -7,6 +7,7 @@
 
 - [Paul Graham on why he doesn’t like seeing college-age and younger founders](https://techcrunch.com/2018/09/01/paul-graham-on-why-he-doesnt-like-seeing-college-age-and-younger-founders/)
 - [A Conversation with Paul Graham – Moderated by Geoff Ralston](https://blog.ycombinator.com/a-conversation-with-paul-graham-moderated-by-geoff-ralston/)
+- [Keynote: Paul Graham, YCombinator](https://www.youtube.com/watch?v=R9ITLdmfdLI)
 
 ## essay
 
