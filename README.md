@@ -9,6 +9,8 @@
 - [A Conversation with Paul Graham – Moderated by Geoff Ralston](https://blog.ycombinator.com/a-conversation-with-paul-graham-moderated-by-geoff-ralston/)
 - [Keynote: Paul Graham, YCombinator 2012 CA](https://www.youtube.com/watch?v=R9ITLdmfdLI)：需梯子
 - [炉边对话 Paul Graham](https://v.youku.com/v_show/id_XMTU4MjEwOTg0OA==.html?spm=a2h0k.11417342.soresults.dtitle)
+- [2010 Forbes The Disruptor In The Valley](https://www.forbes.com/forbes/2010/1108/best-small-companies-10-y-combinator-paul-graham-disruptor.html#1877e20b25cf)
+  - [阮一峰Paul Graham：撼动硅谷的人（译文）]（http://www.ruanyifeng.com/blog/2010/12/paul_graham_the_disruptor_in_the_valley.html）
 
 ## essay
 
