@@ -11,6 +11,7 @@
 - [炉边对话 Paul Graham](https://v.youku.com/v_show/id_XMTU4MjEwOTg0OA==.html?spm=a2h0k.11417342.soresults.dtitle)
 - [2010 Forbes The Disruptor In The Valley](https://www.forbes.com/forbes/2010/1108/best-small-companies-10-y-combinator-paul-graham-disruptor.html#1877e20b25cf)
   - [阮一峰Paul Graham：撼动硅谷的人（译文）](http://www.ruanyifeng.com/blog/2010/12/paul_graham_the_disruptor_in_the_valley.html）
+  - [Y Combinator's Paul Graham sits down with Jason at LAUNCH Festival 2014](https://www.youtube.com/watch?v=YMqgiXLjvRs):需梯子
 
 ## essay
 
