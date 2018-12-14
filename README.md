@@ -42,8 +42,6 @@ Paul Graham与Robert Morris是Lisp方言[ARC语言](http://arclanguage.org/)的�
 
 - [YC 联合创始人JessicaLivingston博客文集](http://foundersatwork.posthaven.com/)
 - [YC公司网站](https://www.ycombinator.com/)
-  * YC中文编译可参考36kr的[paul-graham](http://www.36kr.com/tag/paul-graham)
-  * YC中文编译可参考[YC](http://www.36kr.com/tag/yc)
 - [Hacker News](http://news.ycombinator.com/)
   - Hacker News的中文编译请参考[黑客志](http://heikezhi.com/)
   - Hacker News的中文编译请参考[外刊IT评论](http://www.aqee.net/).
