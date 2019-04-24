@@ -74,5 +74,5 @@ Paul Graham与Robert Morris是Lisp方言[ARC语言](http://arclanguage.org/)的�
 
 # CHANGELOG
 
-- 20181214
-- 20181128
+- 20181214 add 
+- 20181128 init
