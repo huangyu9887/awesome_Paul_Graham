@@ -30,8 +30,8 @@ Paul Graham与Robert Morris是Lisp方言[ARC语言](http://arclanguage.org/)的�
 
 ## media
 
-- [Summer Student Talks 2010 - Paul Graham on Vimeo](https://vimeo.com/21139129)：需梯子
-- [Paul Graham at Startup School 2008](https://www.youtube.com/watch?v=q7K0vRUKXKc)：需梯子
+- [Summer Student Talks 2010 - Paul Graham on Vimeo](https://vimeo.com/21139129)
+- [Paul Graham at Startup School 2008](https://www.youtube.com/watch?v=q7K0vRUKXKc)
 
 ## others
 
